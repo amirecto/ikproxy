@@ -3,4 +3,3 @@ services:
     name: ikproxy
     env: docker
     plan: free
-    autoDeploy: true
